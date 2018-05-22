@@ -1,0 +1,4 @@
+sendgrid.env
+__pychace__/
+.vscode/
+*.html
