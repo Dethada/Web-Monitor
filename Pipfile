@@ -8,11 +8,11 @@ certifi = "==2018.4.16"
 chardet = "==3.0.4"
 idna = "==2.6"
 sendgrid = "==5.3.0"
-"urllib3" = "==1.22"
+urllib3 = "~=1.23"
 python_http_client = "==3.0.0"
 requests = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
